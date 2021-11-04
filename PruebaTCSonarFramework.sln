@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTCSonarFramework", "PruebaTCSonarFramework\PruebaTCSonarFramework.csproj", "{B97051DD-AA0D-4CAF-A948-1DD407FB171A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97051DD-AA0D-4CAF-A948-1DD407FB171A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97051DD-AA0D-4CAF-A948-1DD407FB171A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97051DD-AA0D-4CAF-A948-1DD407FB171A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97051DD-AA0D-4CAF-A948-1DD407FB171A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF70ABC1-8E73-4EF6-99C9-30A2E468DDE1}
+	EndGlobalSection
+EndGlobal
